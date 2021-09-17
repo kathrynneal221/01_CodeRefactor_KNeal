@@ -9,4 +9,4 @@ Screenshots: (spilt into 3 due to size of laptop screen):
 ![Screenshot 3](./assets/images/HW_03.png?raw=true "Screenshot3")
 
 
-Link to deployed webpage:
+Link to deployed webpage: https://kathrynneal221.github.io/01_CodeRefactor_KNeal/
